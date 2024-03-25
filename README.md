@@ -19,3 +19,5 @@ The dataset comprises various weather parameters including temperature, humidity
 ## Aim of the analysis
 
 1. **Understanding Weather Patterns:** The analysis aims to unravel trends and patterns within the weather dataset, providing insights into temperature fluctuations, humidity levels, wind speed variations, and other meteorological phenomena.
+
+2. **Identifying Correlations:** By examining the relationships between different weather parameters, the analysis seeks to identify correlations and dependencies, shedding light on how these variables interact and influence each other.
