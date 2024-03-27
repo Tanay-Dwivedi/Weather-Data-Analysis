@@ -23,3 +23,5 @@ The dataset comprises various weather parameters including temperature, humidity
 2. **Identifying Correlations:** By examining the relationships between different weather parameters, the analysis seeks to identify correlations and dependencies, shedding light on how these variables interact and influence each other.
 
 3. **Informing Decision Making:** Through data-driven insights, the analysis aims to assist in informed decision-making processes, such as urban planning, agricultural management, and emergency preparedness, by providing a deeper understanding of prevailing weather conditions and their potential impacts.
+
+-----
