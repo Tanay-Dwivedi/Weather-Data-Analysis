@@ -9,3 +9,7 @@ The project utilizes **matplotlib**, **seaborn**, and **plotly** for data visual
 -----
 
 ## Identify the Data
+
+[Dataset](https://github.com/Tanay-Dwivedi/Weather-Data-Analysis/blob/master/weather.csv)
+
+The dataset comprises various weather parameters including temperature, humidity, wind speed, and atmospheric pressure. It also includes categorical data describing weather conditions, enabling comprehensive analysis of meteorological trends and patterns.
